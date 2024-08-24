@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://Imshafishaik.github.io/matowin_techinques",
+    "homepage": "https://Imshafishaik.github.io/matowin.github.io",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
